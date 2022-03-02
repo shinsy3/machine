@@ -55,7 +55,13 @@ p {
   justify-content: flex-start;
   background:rgb(189, 190, 159);
   width:106.5%;
-  height:3%
+}
+
+.top-nav a {
+  padding-left:9px;
+  padding-right:10px;
+  padding-top:2px;
+  padding-bottom:2px;
 }
 
 .middle {
@@ -76,112 +82,37 @@ p {
 
 .a2 {
   background-color:rgb(208, 210, 166);
-  padding-left:9px;
-  padding-right:10px;
-  padding-top:2px;
-  padding-bottom:2px;
   margin-left:1em;
   /* -webkit-filter: blur(1px); */
 }
 
 .a3 {
   background-color:rgb(232, 225, 176);
-  padding-left:9px;
-  padding-right:8px;
-  padding-top:2px;
-  padding-bottom:2px;
-  /* margin-left:1em; */
-  /* -webkit-filter: blur(1px); */
 }
 
 .a4 {
   background-color:rgb(178, 181, 139);
-  padding-left:7px;
-  padding-right:8px;
-  padding-top:2px;
-  padding-bottom:2px;
-  /* margin-left:1em; */
-  /* -webkit-filter: blur(1px); */
 }
 
 .a5 {
   background-color:rgb(233, 223, 177);
-  padding-left:9px;
-  padding-right:10px;
-  padding-top:2px;
-  padding-bottom:2px;
-  /* margin-left:1em; */
-  /* -webkit-filter: blur(1px); */
 }
 
 .a6 {
   background-color:rgb(155, 163, 122);
-  padding-left:9px;
-  padding-right:10px;
-  padding-top:2px;
-  padding-bottom:2px;
-  /* margin-left:1em; */
-  /* -webkit-filter: blur(1px); */
 }
 
 .a7 {
   background-color:rgb(180, 181, 127);
-  padding-left:9px;
-  padding-right:10px;
-  padding-top:2px;
-  padding-bottom:2px;
-  /* margin-left:1em; */
-  /* -webkit-filter: blur(1px); */
 }
 
 .a8 {
   background-color:rgb(208, 201, 155);
-  padding-left:9px;
-  padding-right:10px;
-  padding-top:2px;
-  padding-bottom:2px;
-  /* margin-left:1em; */
-  /* -webkit-filter: blur(1px); */
 }
 
-.a1:hover {
-  color: rgb(61, 58, 51);
-  font-style: italic;
-}
-
-.a2:hover {
-  color: rgb(61, 58, 51);
-  font-style: italic;
-}
-
-.a3:hover {
-  color: rgb(61, 58, 51);
-  font-style: italic;
-}
-
-.a4:hover {
-  color: rgb(61, 58, 51);
-  font-style: italic;
-}
-
-.a5:hover {
-  color: rgb(61, 58, 51);
-  font-style: italic;
-}
-
-.a6:hover {
-  color: rgb(61, 58, 51);
-  font-style: italic;
-}
-
-.a7:hover {
-  color: rgb(61, 58, 51);
-  font-style: italic;
-}
-
-.a8:hover {
-  color: rgb(61, 58, 51);
-  font-style: italic;
+.top-nav a:hover {
+    color: rgb(61, 58, 51);
+    font-style: italic;
 }
 
 .prev {
@@ -210,4 +141,14 @@ ul li:before {
 	content: "╰";
 	position: absolute;
 	left: 0;
+}
+
+.media-main {
+  position: relative;
+  width:100%;
+  height: 100%;
+  background: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

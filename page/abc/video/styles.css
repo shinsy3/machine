@@ -36,18 +36,6 @@ a {
   text-decoration: none;
 }
 
-.video-wrap {
-  position: relative;
-  width:100%;
-  /* margin:0 auto; */
-  /* bottom: 10px; */
-  /* background: red; */
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-bottom:300px;
-}
-
 .top-nav {
   display: flex;
   justify-content: flex-start;
