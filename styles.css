@@ -239,6 +239,18 @@ ul li:before {
   margin-left:1em;
 }
 
+.text1 {
+  font-family: 'IBM Plex Sans KR', sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+  background-color:rgb(243, 244, 207);
+  padding-left:7px;
+  padding-right:8px;
+  padding-top:2px;
+  padding-bottom:20px;
+  margin-left:1em;
+}
+
 audio::-webkit-media-controls-panel {
   background-color:rgb(173, 173, 134);
 }
