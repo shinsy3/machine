@@ -169,13 +169,22 @@ p {
 .top-nav a:hover {
     color: rgb(94, 89, 78);
     font-style: italic;
-    cursor:crosshair;
+    cursor: url(y.png),auto;
+    /* cursor:crosshair; */
 }
 
 .list a:hover {
     color: rgb(94, 89, 78);
     font-style: italic;
-    cursor:crosshair;
+    /* cursor:crosshair; */
+    cursor: url(y.png),auto;
+}
+
+.side a:hover {
+    color: rgb(94, 89, 78);
+    font-style: italic;
+    cursor: url(y.png),auto;
+    /* cursor:crosshair; */
 }
 
 .prev {
