@@ -119,6 +119,17 @@ p {
   margin-left:1em;
 }
 
+.a11 {
+  font-family: 'IBM Plex Sans KR', sans-serif;
+  font-weight: 300;
+  background-color:rgb(243, 244, 207);
+  padding-left:7px;
+  padding-right:8px;
+  padding-top:2px;
+  padding-bottom:2px;
+  margin-left:1em;
+}
+
 .aa2 {
   background-color:rgb(208, 210, 166);
   margin-left:-2.1em;
@@ -156,6 +167,12 @@ p {
 }
 
 .top-nav a:hover {
+    color: rgb(94, 89, 78);
+    font-style: italic;
+    cursor:crosshair;
+}
+
+.list a:hover {
     color: rgb(94, 89, 78);
     font-style: italic;
     cursor:crosshair;
