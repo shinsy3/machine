@@ -246,7 +246,7 @@ ul li:before {
   background-color:rgb(243, 244, 207);
   padding-left:7px;
   padding-right:8px;
-  padding-top:2px;
+  padding-top:0;
   padding-bottom:20px;
   margin-left:1em;
 }
