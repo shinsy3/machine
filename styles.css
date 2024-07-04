@@ -325,7 +325,7 @@ audio::-webkit-media-controls-play-button:hover {
   border: 1px solid black; */
 }
 
-/* phone version  */
+/* phone version  *//*
 @media screen and (max-width: 800px) {
   /*.side {
     position: fixed;
@@ -345,7 +345,7 @@ audio::-webkit-media-controls-play-button:hover {
     position: static;
     margin-left: 10px;
   } */
-}
+
 
 @media screen and (max-width: 800px) {
   .side {
