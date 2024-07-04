@@ -137,6 +137,15 @@ p {
   margin-left:1em;
 }
 
+.a12 {
+  background-color:rgb(243, 244, 207);
+  padding-left:7px;
+  padding-right:8px;
+  padding-top:2px;
+  padding-bottom:2px;
+  margin-left:1em;
+}
+
 .aa2 {
   background-color:rgb(208, 210, 166);
   margin-left:-2.1em;
@@ -356,13 +365,3 @@ audio::-webkit-media-controls-play-button:hover {
     width: 75%;
     z-index: 1;
   }
-
-
-.a12 {
-  background-color:rgb(243, 244, 207);
-  padding-left:7px;
-  padding-right:8px;
-  padding-top:2px;
-  padding-bottom:2px;
-  margin-left:1em;
-}
